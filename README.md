@@ -33,6 +33,8 @@ Welcome to your first JavaScript lab at Four Lanes!
 
 This exercise aims to familiarize you with and allow you to practice the primitive data types and basic JavaScript concepts, which we have covered so far. Feel free to reference lesson and pre-work materials, and don't limit yourself; be curious and use Google to explore multiple solutions.
 
+### Pair Programming (ignore if working alone)
+
 You will be working with a partner on this lab, practicing **pair-programming**. During the exercise, you should work together on one computer or code editor and take turns writting the code with your partner. One person will act as the **driver** and the other will be the **navigator**. The driver is the one writing the code and the navigator is the one reviewing the code and guiding the driver.
 
 You should switch roles every 15 minutes or after completing each iteration, to give both of you a chance to write code and practice discussing problems and solutions.
