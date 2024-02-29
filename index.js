@@ -1,6 +1,8 @@
 // Iteration 1: Names and Input
 
-var hacker1 = "John";
+var hacker1 = "john";
+
+console.log("The driver's name is ${hacker1}");
 
 var hacker2 = "lawrence";
 
@@ -25,21 +27,15 @@ if (hacker1.length > hacker2.length) {
 // Iteration 3: Loops
 
 // 3.1
-var captaliseName = hacker1.toUpperCase();
+var capitaliseName = hacker1.toUpperCase().split("").join(" ");
 
-var splitName = captaliseName.split(" ").join(" ");
-
-var result = console.log(splitName);
+var result = console.log(capitaliseName);
 
 //3.2
 
-var splitNameTwo = hacker2.split(" ");
+var reversedName = hacker2.split("").reverse().join(" ");
 
-var reverseName = splitNameTwo.reverse();
-
-var resultTwo = reverseName.join(" ");
-
-console.log(resultTwo);
+console.log(reversedName);
 
 // 3.3
 
